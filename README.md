@@ -36,7 +36,7 @@ forEach changes the original array while map returns a new array
 
 A method is a function that belongs to an object
 
-3. What is closure?
+3. What is closure??
 
 a closure is when you call upon something from the parent function
 
